@@ -1,6 +1,6 @@
 # Rafiul Islam
 
-![Profile Banner](https://png.pngtree.com/background/20211215/original/pngtree-ai-artificial-intelligence-starry-sky-portrait-blue-technology-banner-picture-image_1493062.jpg/1200x300) <!-- Replace with your own banner image -->
+![Profile Banner](pexels-cottonbro-6153354.jpg/1200x300) <!-- Replace with your own banner image -->
 
 ## About Me
 Ambitious and research-driven graduate in Computer Science, eager to expand my AI expertise for a sustainable society and scalable better future. Currently contributing to three diverse research fields, I am highly motivated to enhance AI acumen and redefine the boundaries through smart, intuitive, and innovative solutions.
