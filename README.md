@@ -80,4 +80,3 @@ Feel free to reach out for collaboration, research, or just to connect!
 
 ---
 
-*This README was generated based on my [CV](./path-to-cv.pdf).*
